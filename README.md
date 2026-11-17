@@ -75,7 +75,7 @@ Got an idea that would make your RSS workflow even better? **[Submit a Feature R
 
 Want to see what's currently being built or planned for future releases?
 * Check our **[Project Board / Milestones](../../milestones)** for upcoming versions.
-* Browse issues tagged with [`good first issue`](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [`planned`](../../issues?q=is%3Aissue+is%3Aopen+label%3Aplanned).
+* Browse issues tagged with [`good first issue`](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [`enhancement`](../../issues?q=is%3Aissue+is%3Aopen+label%3Aplanned).
 
 ---
 
