@@ -47,9 +47,10 @@ FeedRaccoon runs on a unified **Manifest V3** architecture across major desktop 
 
 | Browser | Status | Store Link |
 | :--- | :--- | :--- |
-| **Mozilla Firefox** | ✅ Supported | [Firefox Add-ons (AMO)](#) |
-| **Microsoft Edge** | ✅ Supported | [Edge Add-ons Store](#) |
-| **Google Chrome / Brave** | ✅ Supported | [Chrome Web Store / Manual Install](#) |
+| **Mozilla Firefox** | ✅ Processing | [Firefox Add-ons (AMO)](#) |
+| **Microsoft Edge** | ✅ Processing | [Edge Add-ons Store](#) |
+| **Google Chrome / Brave** | ✅ Processing | [Chrome Web Store(#) |
+| **Opera** | ✅ Processing | [Opera Web Store](#) |
 
 ---
 
