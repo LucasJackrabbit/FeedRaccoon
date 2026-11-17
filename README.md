@@ -5,11 +5,14 @@
 
   <!-- Badges (Replace placeholder links with your actual repo/store URLs) -->
   <p>
-    <a href="https://github.com/YOUR_USERNAME/feedraccoon/releases">
+    <a href="https://github.com/LucasJackrabbit/FeedRaccoon/releases">
       <img src="https://img.shields.io/badge/version-3.2.0-orange.svg?style=flat-square" alt="Version" />
     </a>
     <a href="#browser-support">
       <img src="https://img.shields.io/badge/manifest-v3-blue.svg?style=flat-square" alt="Manifest V3" />
+    </a>
+    <a href="https://feedraccoon.pages.dev/">
+      <img src="https://img.shields.io/badge/showcase-live-8B5CF6?style=flat-square" alt="Live Showcase" />
     </a>
     <a href="https://discord.gg/YOUR_INVITE_CODE">
       <img src="https://img.shields.io/badge/Discord-Join%20the%20Den-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
@@ -27,6 +30,8 @@
 Welcome to the official GitHub hub for **FeedRaccoon**! Whether you're here to download the latest release, report a pesky bug, or toss a shiny new feature idea onto the pile, you're in the right place.
 
 FeedRaccoon helps you rummage through the web without algorithms—bringing your favorite blogs, news sites, and feeds straight to your browser toolbar and side panel.
+
+Explore the live **[FeedRaccoon Showcase](https://feedraccoon.pages.dev/)** to see the project in action and preview the latest design and public pages.
 
 ---
 
@@ -49,14 +54,14 @@ FeedRaccoon runs on a unified **Manifest V3** architecture across major desktop 
 | :--- | :--- | :--- |
 | **Mozilla Firefox** | ✅ Processing | [Firefox Add-ons (AMO)](#) |
 | **Microsoft Edge** | ✅ Processing | [Edge Add-ons Store](#) |
-| **Google Chrome / Brave** | ✅ Processing | [Chrome Web Store(#) |
+| **Google Chrome / Brave** | ✅ Processing | [Chrome Web Store](#) |
 | **Opera** | ✅ Processing | [Opera Web Store](#) |
 
 ---
 
 ## 🐛 Reporting Bugs & 💡 Requesting Features
 
-This repository serves as our public tracker for bugs and upcoming improvements. Before opening a new ticket, please take a quick look at the [Issues](../../issues) tab to see if another trash panda has already reported it!
+This repository serves as our public tracker for bugs and upcoming improvements. Before opening a new ticket, please take a quick look at the [Issues](../../issues) tab to see if another trash panda has already filed a similar report.
 
 ### 🐞 Spotted a Bug?
 If something isn't parsing right or an interface element looks broken, **[open a Bug Report](../../issues/new?labels=bug)** and include:
@@ -83,6 +88,7 @@ Want to see what's currently being built or planned for future releases?
 ## 💬 Community & Support
 
 * **Discord Server:** Join other RSS enthusiasts, share OPML starter packs, and chat in real time on our **[FeedRaccoon Discord](#)**.
+* **Live Showcase:** Browse the public demo and landing pages at **[FeedRaccoon Showcase](https://feedraccoon.pages.dev/)**.
 * **Support Development:** FeedRaccoon is built with passion and caffeine. If it saves you time every day, consider supporting future updates on **[Patreon](#)**!
 
 ---
