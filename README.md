@@ -14,10 +14,10 @@
     <a href="https://feedraccoon.pages.dev/">
       <img src="https://img.shields.io/badge/showcase-live-8B5CF6?style=flat-square" alt="Live Showcase" />
     </a>
-    <a href="https://discord.gg/YOUR_INVITE_CODE">
+    <a href="https://discord.gg/HX2P9Sz6F">
       <img src="https://img.shields.io/badge/Discord-Join%20the%20Den-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="https://patreon.com/YOUR_PATREON">
+    <a href="https://patreon.com/FeedRaccoon">
       <img src="https://img.shields.io/badge/Patreon-Support%20FeedRaccoon-FF424D?style=flat-square&logo=patreon&logoColor=white" alt="Patreon" />
     </a>
   </p>
