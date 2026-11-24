@@ -61,7 +61,7 @@ FeedRaccoon runs on a unified **Manifest V3** architecture across major desktop 
 
 ## 🐛 Reporting Bugs & 💡 Requesting Features
 
-This repository serves as our public tracker for bugs and upcoming improvements. Before opening a new ticket, please take a quick look at the [Issues](../../issues) tab to see if another trash panda has already filed a similar report.
+This repository serves as public tracker for bugs and upcoming improvements. Before opening a new ticket, please take a quick look at the [Issues](../../issues) tab to see if another trash panda has already filed a similar report.
 
 ### 🐞 Spotted a Bug?
 If something isn't parsing right or an interface element looks broken, **[open a Bug Report](../../issues/new?labels=bug)** and include:
@@ -87,7 +87,7 @@ Want to see what's currently being built or planned for future releases?
 
 ## 💬 Community & Support
 
-* **Discord Server:** Join other RSS enthusiasts, share OPML starter packs, and chat in real time on our **[FeedRaccoon Discord](#)**.
+* **Discord Server:** Join other RSS enthusiasts, share OPML starter packs, and chat in real time on **[FeedRaccoon Discord](#)**.
 * **Live Showcase:** Browse the public demo and landing pages at **[FeedRaccoon Showcase](https://feedraccoon.pages.dev/)**.
 * **Support Development:** FeedRaccoon is built with passion and caffeine. If it saves you time every day, consider supporting future updates on **[Patreon](#)**!
 
