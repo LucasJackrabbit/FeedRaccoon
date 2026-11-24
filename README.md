@@ -1,6 +1,6 @@
 <div align="center">
   <img src="icons/icon128.png" alt="FeedRaccoon Logo" width="96" height="96" />
-  <h1>🦝 FeedRaccoon</h1>
+  <h1>FeedRaccoon</h1>
   <p><strong>A fast, feature-rich RSS/Atom feed reader & notifier built for modern browsers.</strong></p>
 
   <!-- Badges (Replace placeholder links with your actual repo/store URLs) -->
@@ -29,7 +29,7 @@
 
 Welcome to the official GitHub hub for **FeedRaccoon**! Whether you're here to download the latest release, report a pesky bug, or toss a shiny new feature idea onto the pile, you're in the right place.
 
-FeedRaccoon helps you rummage through the web without algorithms—bringing your favorite blogs, news sites, and feeds straight to your browser toolbar and side panel.
+FeedRaccoon helps you rummage through the web without algorithms-bringing your favorite blogs, news sites, and feeds straight to your browser toolbar and side panel.
 
 Explore the live **[FeedRaccoon Showcase](https://feedraccoon.pages.dev/)** to see the project in action and preview the latest design and public pages.
 
